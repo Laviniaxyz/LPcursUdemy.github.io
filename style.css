@@ -1,0 +1,41 @@
+body {
+	background: url("girl running.jpg") no-repeat center center fixed;
+	 -webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+  	
+}
+
+.container {
+	display: flex;
+	flex-wrap: wrap;
+	flex-direction: column;
+	justify-content: flex-start;
+}
+div {
+	margin-top: 1%;
+	margin-left: 1%;
+	font-family: 'Lato', sans-serif;
+}
+
+p {
+  	color: 	#556B2F;
+  	font-size: 20px;
+  	border-bottom: 1px solid #556B2F;
+  	float: left;
+  	font-size: 20px;
+  	text-shadow: 0.5px 0.5px black;
+  	
+}
+
+
+
+ .btn-primary {
+    background-color: #800020;
+    border-color: #800020;
+}
+
+.btn {
+	font-size: 0.8rem;
+}
